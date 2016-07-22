@@ -1,0 +1,36 @@
+/* Pon tu código css aqui */
+
+.first{
+	width: 200px;
+	height: 200px;
+	background: #ee3e64;
+	position: absolute;
+	left: 0;
+	top:0;
+	
+
+}
+.second{
+	width: 200px;
+	height: 200px;
+	background:#44accf;	
+	position: absolute;
+	right:  0;
+	top:0;
+}
+.third{
+	width: 200px;
+	height: 200px;
+	background: #b7d84b;
+	position: absolute;
+	left: 0;
+	bottom:0;
+}
+.cuarto{
+	background: #F7FE2E;
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	right: 0;
+	bottom:0;
+}	
